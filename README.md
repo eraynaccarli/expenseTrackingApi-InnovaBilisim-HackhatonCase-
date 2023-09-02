@@ -1,4 +1,4 @@
-# expenseTrackingApi-InnovaBilisim-HackhatonCase-
+# EXPENSE TRACKING API (Innova Bilişim Hackhaton Case)
     
 # FEATURES
  The application where the user is registered and authorized to the system, and can log in with the token and track their expenses.
